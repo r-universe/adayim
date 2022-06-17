@@ -1,0 +1,10 @@
+[
+  {
+    "package": "consort",
+    "oncran": true
+  },
+  {
+    "package": "forestploter",
+    "oncran": true
+  }
+]
