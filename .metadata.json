@@ -1,10 +1,10 @@
 [
   {
-    "package": "forestploter",
+    "package": "consort",
     "oncran": true
   },
   {
-    "package": "consort",
+    "package": "forestploter",
     "oncran": true
   }
 ]
