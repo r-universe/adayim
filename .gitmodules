@@ -8,3 +8,6 @@
 [submodule "forestploter"]
 	path = forestploter
 	url = https://github.com/adayim/forestploter
+[submodule "gridmicrotex"]
+	path = gridmicrotex
+	url = https://github.com/adayim/gridmicrotex
