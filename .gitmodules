@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "causalMed"]
+	path = causalMed
+	url = https://github.com/adayim/causalmed
 [submodule "consort"]
 	path = consort
 	url = https://github.com/adayim/consort
